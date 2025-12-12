@@ -1,0 +1,13 @@
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\XII class\CalculatorApp-master\CalculatorApp-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
