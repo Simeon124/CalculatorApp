@@ -53,7 +53,7 @@ namespace GitExercise
                             OptionsManager.Divide(a, b);
                             break;
                         case "dr":
-                            OptionsManager.Add(a, b);
+                            OptionsManager.DivideRemainder(a, b);
                             break;
                             Console.Clear();
                             Console.WriteLine("Goodbye");
@@ -61,6 +61,15 @@ namespace GitExercise
                             return;
                         case "sabs":
                             OptionsManager.SubtractAbs(a, b);
+                            break;
+                        case "pow":
+                            OptionsManager.Power(a, b);
+                            break;
+                        case "log":
+                            OptionsManager.Log(a, b);
+                            break;
+                        case "fact":
+                            OptionsManager.Factorial(a, b);
                             break;
                     }
                     Console.WriteLine("Press any key to continue...");
